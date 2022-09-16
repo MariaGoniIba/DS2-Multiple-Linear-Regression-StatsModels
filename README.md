@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-Real-State
+# Data Science (DS) project 2: Multiple Linear Regression using StatsModels
 Multiple linear regression using StatsModels to predict the housing price based on the size, year and if the house has a view or not.
 
 # Credit
